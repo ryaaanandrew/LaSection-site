@@ -1,3 +1,3 @@
-Quick site put together w/ React using Styled Components;
+# Quick site put together w/ React to play around with Styled Components;
 
-###wip
+### wip
